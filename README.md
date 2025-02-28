@@ -1,7 +1,7 @@
 # innomaticsInternshipTask5
 Assignment 5: Build an Interactive Todo List Application in React
 
-# 📌 AddaTech Todo List App 📝
+# 📌 Todo List App 📝
 
 An interactive and user-friendly **Todo List application** built using **React and Vite**.
 
